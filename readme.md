@@ -16,12 +16,12 @@ Bu proje, markdown dosyalarını web üzerinden görüntülemek ve yönetmek iç
 
 1. Repo'yu klonlayın:
    ```
-   git clone https://github.com/kullaniciadi/markdown-goruntleyici.git
+   git clone https://github.com/metinweb/markdown-viewer.git
    ```
 
 2. Proje dizinine gidin:
    ```
-   cd markdown-goruntleyici
+   cd markdown-viewer
    ```
 
 3. Gerekli bağımlılıkları yükleyin:
