@@ -1,0 +1,58 @@
+# Bağımlılıklar
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Çalışma zamanı verisi
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dizin dosyaları
+.DS_Store
+Thumbs.db
+
+# Günlük dosyaları
+logs
+*.log
+
+# Çıktı dosyaları
+dist/
+build/
+
+# Dotenv çevre değişkenleri dosyası
+.env
+
+# IDE ve editör klasörleri
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# İşletim sistemi dosyaları
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# npm paket kilidi dosyası (eğer yarn kullanıyorsanız)
+# package-lock.json
+
+# yarn paket kilidi dosyası (eğer npm kullanıyorsanız)
+# yarn.lock
+
+# Geçici dosyalar
+tmp/
+temp/
+
+# Markdown dosyaları (eğer bunları versiyon kontrolünde tutmak istemiyorsanız)
+# markdown_files/
+
+# Özel dosyalar ve klasörler
+# config.js
+# secrets.json
